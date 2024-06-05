@@ -1,0 +1,4 @@
+bingpython
+openai
+EdgeGPT
+word-search-generator
